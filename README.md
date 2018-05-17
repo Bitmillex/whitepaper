@@ -1,4 +1,18 @@
-# whitepaper
-The Bitmillex whitepaper in English, French, Japanese and Spanish as well as a one-page summary of Bitmillex.
+# Whitepaper Documents
 
-If you wish to request the whitepaper in another language please contact *****@bitmillex.com
+# onepage.pdf
+A one-page summary of Bitmillex and our ICO
+
+# whitepaperv2_english.pdf
+The Bitmillex whitepaper in English
+
+# whitepaperv2_french.pdf
+The Bitmillex whitepaper in French
+
+# whitepaperv2_japanese.pdf
+The Bitmillex whitepaper in Japanese
+
+# whitepaperv2_spanish.pdf
+The Bitmillex whitepaper in Spanish
+
+If you wish to request the whitepaper in another language please contact _________
