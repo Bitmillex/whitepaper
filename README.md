@@ -15,4 +15,4 @@ The Bitmillex whitepaper in Japanese
 ### whitepaperv2_spanish.pdf
 The Bitmillex whitepaper in Spanish
 
-If you wish to request the whitepaper in another language please contact _________
+If you wish to request the whitepaper in another language please contact Hello@Bitmillex.com
