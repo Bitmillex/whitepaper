@@ -129,3 +129,96 @@ Token Quantity: 10,000,000 Price: $0.40 Bonus: 20%
 Token Quantity: 10,000,000 Price: $0.45 Bonus: 10%
 ### Public ICO Stage 4
 Token Quantity: 10,000,000 Price: $0.50 Bonus: -
+
+## Use of ICO Proceeds
+### 45%:
+To develop the exchange to world class standard, Invest in the most advanced servers and security apparatus, Invest and maintain added on features, Hiring and training of the best hands as well as other aspects of development
+### 30%:
+Marketing, Continous promoting, branding, Research and Development and other conscious efforts to build usage and patronage, hence increasing liquidity.
+### 5%:
+Take care of regulatory requirements and acquire relevant and necessary licences
+### 10%:
+Set aside for the development of the decentralized exchange in 2019
+### 10%
+To be kept in reserves to meet unplanned occurences
+
+# Road Map Development
+## Q2 2017:
+* Idea Formation
+* Market Analysis & Surveys
+* Planning and Design of Desired Exchange Features
+## Q3 2017:
+* Team Formation
+* Technical Partners Selection
+* Initial White Paper Draft
+* Legal Formalities begin
+## Q4 2017:
+* Front and Back End Development begins 
+* Alpha Testing
+* Algorithm Signals Testing 
+## Q1 2018:
+* Incorporation of BITMILLEX LTD
+* Social Media Platform launch
+* Airdrop
+* Marketing 
+## Q2 2018
+* ICO
+* Beta Testing
+* Bitmillex Exchange Launch
+* Listing on Coinmarketcap
+* KYC Module
+* Mobile APP Release External Exchange Listing
+* MT4/MT5 Platform Launch
+## Q3 2018
+* Acquisition of Additional Licences
+* Distribution of Bitmillex Debit Card 
+* Marketing and Roadshows in various regions around the world
+## Q4 2018
+* Bitmillex Headquarters Opened in Londo
+## Q1 2019
+* Launch of Bitmillex Decentrex (Decentralized Exchange Platform)
+
+# Bitmillex Revenue
+Revenue to the Exchange shall accrue in the form of:
+## Trading Fees:
+The exchange shall generate the bulk of its income from trading fees and commissions. However, this will be lower than industry average. To encourage liquidity,for 2018, market makers will be charged zero fees while price takers will be charged between 0.05% and 0.075% which is lower than industry average of 0.15%.
+## Withdrawal Fees:
+Withdrawal fees include miners’ fees which is not charged by the exchange. Our total fees for withdrawal shall range between 0.00050.0007BTC for blockchain withdrawals and 0.001BTC for Bitmillex Debit Card withdrawals.
+## Commission on P2P transactions:
+ For buying and selling of BTC on the Peer to Peer section, there will be a charge of 0.075% from sellers only. 25% lower than industry average.
+Bitmillex shall also earn facilitator commissions on the Peer to Peer lending segment. (rate for this service not yet fixed)
+## Trading Signals and Commission on Copy Trade Profits:
+ Non BTML holders who request trading signals shall be charged for the service. There shall also be a charge of 2.5% on the profit made through copy trade transactions.
+## ICO Services:
+As a robust platform, Bitmillex shall offer ICO marketing, listing and payment processing services to carefully and well analysed projects with priority given to projects by existing developers of already listed coins and tokens. By this arrangement, users can buy the coins and tokens directly on the Bitmillex platform. 
+## Others:
+Other sources of revenue shall include margin trading and miscelleous services.
+
+# Team
+## Malcolm Britton - Co Founder/ceo
+Malcolm is a very experienced trader with particular interest  in Forex, Indices and Crypto Futures . When not trading, blogging, vlogging or teaching others to trade, he is into project tendering and estimations. He is most renownfor his teachings on the use of Volume and Spread Analysis in trading. His famous thread on Forexfactory on this topic has over 30,000 posts. 
+## Emir BugraKoksalan - Co- Founder/Lead, Software Designs & Architecture
+Emir is a software developer and serial enterprenuer who has for years been developing automated trading systems for institutional traders in East Europe and Asia. He has also built and delivered his self-developed, unique bulkSMS generation portals to various clients across the globe. He is the CEO of Nixarsoft among other startups which have developed various web and mobile apps as well as software for two cryptocurrency exchanges.
+## Rajdeep Dhar -  Co-Founder, Head of Business Development
+Cryptocurrency Advocate and Blockchain Consultant. RajdeepDhar spent 11 years consulting large scale enterprises with digital adoption. He's equally involved in helping startups emulate industry leading products. Rajdeep has worked in various leadership positions from Mentoring to sales coaching and blockchain advisory.  He was an early adopter of Bitcoin and a cryptocurrency advocate on social media. Since then, he has become a cryptocurrency and blockchain consultant and advisor to companies seeking to embrace the blockchain and cryptocurrency sphere.
+## Rana R.A. Khan - Head, Software Architecture & Security Networks Team
+Rana is a very experienced computer Engineer and Enterpreneur with expertise in areas inclusive but not limited to general  web development, hosting and scripting. He is the lead developer of the auto signal generating algorithm using python and curl technology, a system that generated over $11.5m during a 9-month test period
+## Matthias Van Dooren - Team Lead, Social Media Content
+Matt is a Social Media Marketing Expert. With years of cryptocurrency trading and analysis behind him, he contributed immensely to the success stories of  projects like centra.tech, coti.io, shivom.io, vividtoken, coinstarter and Refereum. He now specialises mainly in directing and guidance of project support admins on platforms like telegram, reddit, discord and mainstream media. He is one of the forces behind leading ICO promoters, icodriver.io
+## Abdulmajeed Abdul - COO & Lead Investment Contents Creator
+Abdul is a financial market analyst, trader and speculator in stocks, forex andmost recently, cryptocurrencies, on which he trains and advises. In addition, he is a hedge fund manager with over a decade's experience in banking operations, credits and payment systems.  He met Emir while the latter was developing software for an African cryptocurrency exchange Abdul was consulting for. 
+## Imran Rahman - Lead Exchange and Smart Contracts Developer
+Blockchain Architect Technology Lead, Software Architect, Full Stack Engineer, Blockchain Evangelist, and Ethereum Smart Contract Developer with over 12 years of experience in software development and front-end technologies. Main Architect, and engineer of many complex enterprisegrade web applications. Uses new innovative ways for product development and obsessed with writing extensible code, building blockchain-based applications and D-Apps.
+## Syed Hashim Jamal - CTO
+Hashim has experience in IT sales and business development, strategic management, brand creation, specifically in verticals of People Management & Outsourcing. He has highly developed skills in managing relationship management, negotiating technical/commercial deals, sourcing new products/customers/opportunities on a global scale all while handling a diverse range of people, products and technologies. He is experienced ICO manager, supports projects at every stage of their life cycle. True digital enthusiast with passion and applicable experience.
+## Gaurav Areng Chakraverti - Head of Marketing and PR
+Gaurav brings extensive marketing expertise to the Bitmillex project backed by several years of service to small, medium and large businesses, aligning their strategic marketing plans to seamlessly support business goals. As co-founder of digital marketing experts, The Alpha Bet, Gaurav and his team have provided branding and general marketing services and advisory to various blockchain and ICO projects.
+## Jose Emmanuel - Lead Community Manager
+Jose is the founding partner of JM Mosspole, a blockchain startup advisory firm.  He is a highly experienced community consultant and manager who has worked with several ICO projects and start-ups such as Crypto BNB, Nuvus, Amazix among others.
+## Brian Juat - Community Coordinator
+Brian is cryptocurrency evangelist and expert in PR and community management. He is co founder of JM Mosspole and alongside Jose, has worked on various ICO projects.
+
+## Disclaimer
+We understand that the business of running an exchange , as indeed other businesses is surrounded by risks. We believe we have the team with adequate abilities and skills to manage and overcome these risks.
+We declare that the content of this white paper are to the best of our knowledge, accurate and reflective of what the Bitmillex exchange is and shall be about.
+BTML tokens are sold as digital assets, similar to downloadable software. The company does not recommend that you purchase tokens unless you have prior experience with cryptographic tokens, block chain based software and operations and/or unless you have taken independent professional advise.
