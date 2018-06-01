@@ -105,4 +105,27 @@ From Q1 2019, after the launch of the Bitmillex Decentralex, 75% of net income o
 The plan shall work like this: Users who desire ICO listing services on our platform will be required to pay in BTML which effectively means buying BTML from the exchange and paying us with it. 75% of the BTML tokens received under this scheme shall be burnt under a transparent and verifiable arrangement. Also 30% of income directly earned on new coin listings will be used to purchase BTML from the exchange and destroyed in the same process.
 ## The ICO
 A total of 50,000,000 BTML Tokens shall be offered via an Initial Coin Offering (ICO) The offering shall begin with a Private Pre-Sale which opens in March 2018 to be followed by Pre-ICO and Public ICO after. Soft cap is set at $1.5m and hard cap at $10m
-### Token Allocation
+
+## Token Allocation
+### Founders and Team
+15,000,000* 50% of tokens allocated to founders and team to be locked in a smart contract for 1 year.
+### ICO
+50,000,000
+### Marketing Allocation
+8,500,000
+### Airdrop and Bounty  
+1,500,000
+### Total
+75,000,000
+
+## ICO Schedule
+### Pre-ICO
+Token Quantity: 10,000,000 Price: $0.25 Bonus: 50%
+### Public ICO Stage 1
+Token Quantity: 10,000,000 Price: $0.35 Bonus: 30%
+### Public ICO Stage 2
+Token Quantity: 10,000,000 Price: $0.40 Bonus: 20%
+### Public ICO Stage 3
+Token Quantity: 10,000,000 Price: $0.45 Bonus: 10%
+### Public ICO Stage 4
+Token Quantity: 10,000,000 Price: $0.50 Bonus: -
